@@ -9,20 +9,19 @@ To execute simply run 'ruby run.rb'
 Please see below for sample output...
 
 # Sample
-```start irb
-~/dev/CardMatrix via 💎 v2.6.8
+```CardMatrix on  master [?] via 💎 v2.6.8
 ➜ ruby run.rb
 ===Original Hand===
-K♠ | J♣ | Q♥ | A♦ |
-Q♥ | J♣ | J♣ | J♣ |
-A♦ | K♠ | A♦ | K♠ |
-Q♥ | K♠ | Q♥ | A♦ |
+K♠ | Q♥ | Q♦ | J♣ |
+A♦ | A♠ | K♣ | J♥ |
+A♥ | K♥ | Q♣ | J♠ |
+K♦ | A♣ | Q♠ | J♦ |
 
 =Reordered Matrix==
-K♠ | J♣ | Q♥ | A♦ |
-Q♥ | A♦ | K♠ | J♣ |
-A♦ | Q♥ | J♣ | K♠ |
-J♣ | K♠ | A♦ | Q♥ |
+K♠ | Q♥ | J♣ | A♦ |
+J♦ | A♣ | K♥ | Q♠ |
+A♥ | J♠ | Q♦ | K♣ |
+Q♣ | K♦ | A♠ | J♥ |
 ```
 
 # Contact
